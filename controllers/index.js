@@ -54,6 +54,7 @@ promise.then(renderCard).catch(function (error) {
     console.log(error)
 });
 
-console.log("hello fe 41")
+console.log("hello fe 41");
+ taoBang();
 
 
