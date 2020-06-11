@@ -1,4 +1,4 @@
-console.log('Huy test');
+
 
 //Tạo object chứa thông tin request về api từ BE (Lưu ý: các thông tin phải chính xác với BE cung cấp)
 var objectAjax = {
